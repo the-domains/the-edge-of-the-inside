@@ -1,7 +1,7 @@
 name: The Edge of the Inside
 favicon: null
-layout_spectrum: 0.6691787100862712
-typography_spectrum: 0.9851544685661793
+layout_spectrum: 0.7478
+typography_spectrum: 1
 title: The Edge of the Inside
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#61371a'
+    - '#c3b59d'
+    - '#ae9b81'
+    - '#7d5b3f'
+    - '#47150c'
   brandStrength: 0.8909745544660836
   lightness: 0.7994345338083804
-  saturation: 0.10887155495584011
+  saturation: 0.125
   rhythmicContrast: 0.6310969854239374
 purpose: []
