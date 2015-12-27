@@ -1,6 +1,6 @@
 name: The Edge of the Inside
 favicon: null
-layout_spectrum: 0.7478
+layout_spectrum: 0.75308
 typography_spectrum: 1
 title: The Edge of the Inside
 cta:
@@ -22,7 +22,7 @@ color:
     - '#010101'
     - '#3b3b3b'
     - '#757575'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 0.7994345338083804
   saturation: 0.125
   rhythmicContrast: 0.6310969854239374
